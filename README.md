@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Krystal Lin. I’m diving into Data Science at the University of Toronto Data Science Institute. With a background in Earth Sciences from the University of Waterloo, I'm thrilled to explore data's potential. 
+
+🌱 I enjoy travel and photography, enriching my data-driven journey. 
+📫 Let's connect on LinkedIn(https://www.linkedin.com/in/krystal-wl/) and learn together!
+
+
 <!--
 **Krystal-WL/Krystal-WL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
