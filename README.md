@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-Hello👋, I'm Krystal Lin. Currently, I'm deepening my expertise in Data Science at [the University of Toronto Data Science Institute](https://datasciences.utoronto.ca/),  propelled by a diverse foundation in Project Management and Data Analysis at [ALCLE](https://www.alclecanada.com/) and an Earth Sciences degree from [the University of Waterloo](https://uwaterloo.ca/). My areas of keen interest include big data analytics and data visualization, where I'm eager to make significant contributions.
+Hello👋, I'm Krystal Lin. Currently, I'm enhancing my Data Science expertise at [the University of Toronto Data Science Institute](https://datasciences.utoronto.ca/),  driven by my experience in Project Management and Data Analysis at [ALCLE](https://www.alclecanada.com/) and an Earth Sciences degree from [the University of Waterloo](https://uwaterloo.ca/).  I'm particularly passionate about big data analytics and data visualization, aiming to contribute meaningfully in these fields.
 
 🌱 Outside of data, I love travel and photography, enriching my perspective.
+
 📫 Ready to collaborate or share insights? Connect on [LinkedIn](https://www.linkedin.com/in/krystal-wl/) and let’s grow together!😄"
 
 
