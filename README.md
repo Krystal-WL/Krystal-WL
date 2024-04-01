@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Hello👋, I'm Krystal Lin. I’m diving into Data Science at [Visit the University of Toronto Data Science Institute](https://datasciences.utoronto.ca/). With a background in Earth Sciences from the [Visit University of Waterloo](https://uwaterloo.ca/), I'm thrilled to explore data's potential. 
+Hello👋, I'm Krystal Lin. I’m diving into Data Science at [the University of Toronto Data Science Institute](https://datasciences.utoronto.ca/). With a background in Earth Sciences from the [University of Waterloo](https://uwaterloo.ca/), I'm thrilled to explore data's potential. 
 
 🌱 I enjoy travel and photography, enriching my data-driven journey. 
-📫 Let's connect on [Visit LinkedIn](https://www.linkedin.com/in/krystal-wl/) and learn together!😄
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/krystal-wl/) and learn together!😄
 
 
 <!--
