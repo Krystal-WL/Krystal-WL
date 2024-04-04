@@ -4,7 +4,7 @@ Hello👋, I'm Krystal Lin. Currently, I'm enhancing my Data Science expertise a
 
 🌱 Outside of data, I love travel and photography, enriching my perspective.
 
-📫 Ready to collaborate or share insights? Connect on [LinkedIn](https://www.linkedin.com/in/krystal-wl/) and let’s grow together!😄"
+📫 Ready to collaborate or share insights? Connect on [LinkedIn](https://www.linkedin.com/in/krystal-wl/) and let’s grow together!😄
 
 
 <!--
